@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 Harris Suleman
+Copyright (c) 2024 Harris Suleman w/ assistance of Myles Sartor, Travis Sawo, and Lionel Jimenez during pair programming, and assistance of my cousin Hamza Eliyas, helping me overlook my code.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

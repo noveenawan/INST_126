@@ -1,0 +1,3 @@
+comments: 
+You can add a check to see if a letter has been guessed already and I suggest even giving a warning rather than penalizing the player
+You should also ensure the user inputs are valid by checking if input is a single lette ror has alreayd been guessed 
